@@ -21,7 +21,6 @@ int main(){
             ans += strs[0][i];
             i++;
         }
-
     }
     return 0;
 }
